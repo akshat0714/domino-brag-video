@@ -1,0 +1,3 @@
+Introducing Domino: hospitals find kidney-swap matches across hospitals without any patient file leaving its hospital.
+Each hospital's agent answers from its own records, in categories only. In our demo run on synthetic data: 7 transplants, 0 patient records shared.
+Built at the Collaborative Agent Hackathon at Stanford.

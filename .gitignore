@@ -1,0 +1,7 @@
+node_modules/
+.hyperframes/
+renders/
+snapshots/
+.DS_Store
+# The music bed ships with the /brag skill; its redistribution terms are not documented, so it is not committed here.
+composition/assets/music/*.mp3
